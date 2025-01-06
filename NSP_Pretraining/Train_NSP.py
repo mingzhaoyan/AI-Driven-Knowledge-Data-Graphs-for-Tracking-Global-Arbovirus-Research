@@ -139,5 +139,5 @@ model = inject_adapter_in_model(lora_config, model)
 trainer.train()
 
 # Save the fine-tuned model and tokenizer
-model.save_pretrained('ArboBert_LORA_NSPafMLM_model_1')
-tokenizer.save_pretrained('ArboBert_LORA_NSPafMLM_model_1')
+model.save_pretrained('ArboBert_model')
+tokenizer.save_pretrained('ArboBert_model')
