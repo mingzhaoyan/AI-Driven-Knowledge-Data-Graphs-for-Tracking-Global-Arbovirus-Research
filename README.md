@@ -35,7 +35,8 @@ Step | Training Scripts | Output
 1.MLM Hyperparameter Search | ```MLM_H_S.py```    | Best hyperparameter set identified and logged in ```hyperparameter_search_log.txt```
 2.MLM Pretraining |```Train_MLM_DIYMASK.py```|Pretrained MLM model saved to ```ArboBert_LORA_MLM_model``` directory
 3.NSP Hyperparameter Search|```NSP_H_S.py```|Best hyperparameter set identified and logged in ```hyperparameter_search_log2.txt```
-4.NSP Pretraining|```Train_NSP.py```|Pretrained NSP model saved to ```ArboBert_LORA_NSPafMLM_model_1``` directory
+4.NSP Pretraining|```Train_NSP.py```|Pretrained NSP model saved to ```ArboBert_LORA_NSPafMLM_model_1``` directory  
+
 By meticulously following the outlined training procedures, you can effectively train the ***ArboBert*** model.  
 
 # Classification Model Training  
