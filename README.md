@@ -49,7 +49,7 @@ We provide a comprehensive comparison of the four classification models used in 
 Model | Functionality | Training Script | Model Path 
 ---- | ---- |-----------------|-------------
 FastText|Efficient text classification and word vector learning	|```fastext_model.py``` | Imported directly via```import fasttext``` 
-BERT|Bidirectional contextual understanding, suitable for various NLP tasks|```bert_classification.py```| ```classification_model\BERT_classification\BERTmodel``` 
+[BERT](https://huggingface.co/google-bert)|Bidirectional contextual understanding, suitable for various NLP tasks|```bert_classification.py```| ```classification_model\BERT_classification\BERTmodel``` 
 [BioBert](https://huggingface.co/dmis-lab)|Specialized for biomedical text, excellent at handling domain-specific terminology| ```biobert_classification.py``` | ```classification_model\BioBert_classification\biobert```
 ArboBert|Specialized for arbovirus domain, enhances classification performance|```arbobert_classification.py```| *Depends on the trained model (see Training Scripts)*  
 
