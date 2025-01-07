@@ -55,7 +55,7 @@ ArboBert|Specialized for arbovirus domain, enhances classification performance|`
 
 **Evaluation metrics:** Accuracy, Precision, Recall, F1 Score
 ## Using ArboBert for Classification
-We selected the ArboBert model with the highest test accuracy to classify 70,000 abstracts in the arbovirus domain.  
+We selected the ArboBert model with the highest test accuracy to classify approximately 70,000 abstracts in the arbovirus domain.  
 This is the script used to run ArboBert classification:
 ```
 arbobert_all_predict.py
