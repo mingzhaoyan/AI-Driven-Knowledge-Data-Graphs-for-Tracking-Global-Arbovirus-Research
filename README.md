@@ -6,7 +6,7 @@ ArboBert is a specialized BERT model designed for arbovirus disease research. Le
 ## Dataset
 We curated a dataset comprising approximately 70,000 abstracts related to arboviruses. These abstracts are packaged in CSV format and contain a wealth of specialized terminology and concepts pertinent to the field. This dataset serves as the foundation for further pre-training and fine-tuning of the ArboBert model.  
 ```
-ArboBert/MLM_pub_data_7w.csv
+MLM_pub_data_7w.csv
 ```
 ## Pre-training Methods
 
