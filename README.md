@@ -1,4 +1,4 @@
-# AI-Driven-Knowledge-Data-Graphs-for-Tracking-Global-Arbovirus-Research
+# [AI-Driven-Knowledge-Data-Graphs-for-Tracking-Global-Arbovirus-Research](https://link.springer.com/content/pdf/10.1186/s40537-025-01256-w.pdf)
 ## ArboBert: A BERT Model Specialized for Arbovirus Research
 ## Introduction
 ArboBert is a specialized BERT model designed for arbovirus research. Leveraging the robust capabilities of BioBERT, ArboBert is fine-tuned to excel in processing domain-specific text data, particularly in recognizing and understanding specialized terminology within the arbovirus field.
